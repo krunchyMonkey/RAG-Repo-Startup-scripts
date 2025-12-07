@@ -1,0 +1,16 @@
+# Exclude logs directory
+logs/
+
+# Exclude RAG-Sandbox folder (separate git repo)
+RAG-Sandbox/
+
+# Common OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
